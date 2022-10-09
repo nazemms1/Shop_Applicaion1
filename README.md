@@ -5,7 +5,7 @@ A new Flutter project.
 **An application that allows viewing purchases and knowing their details and some other features**
 
 
-![Uploading nazem app3.png…]()
+
 
 ## Getting Started
 
@@ -21,5 +21,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+![nazem app3](https://user-images.githubusercontent.com/90716419/194769805-686b09cc-4acb-4552-b71f-47e4f41da245.png)
 
 
